@@ -1,0 +1,53 @@
+MEN,9
+VON,101,2,3,Budapest,0,Gödöllő,30,Hatvan,60
+	JAR,501,06:45,2025.5.14.,2
+		DJG,Budapest,Hatvan
+		FJG,Budapest,Gödöllő
+	JAR,502,08:15,2025.5.14.,1
+		FJG,Gödöllő,Hatvan
+VON,202,3,2,Szeged,0,Hódmezővásárhely,25
+	JAR,601,09:20,2025.5.14.,2
+		DJG,Szeged,Hódmezővásárhely
+		FJG,Szeged,Hódmezővásárhely
+	JAR,602,11:40,2025.5.14.,1
+		FJG,Szeged,Hódmezővásárhely
+	JAR,603,14:00,2025.5.14.,2
+		DJG,Szeged,Hódmezővásárhely
+		DJG,Szeged,Hódmezővásárhely
+VON,303,1,3,Debrecen,0,Hajdúszoboszló,22,Püspökladány,45
+	JAR,701,07:30,2025.5.15.,3
+		DJG,Debrecen,Hajdúszoboszló
+		FJG,Debrecen,Püspökladány
+		FJG,Hajdúszoboszló,Püspökladány
+VON,404,2,2,Kecskemét,0,Kiskunfélegyháza,35
+	JAR,801,10:00,2025.5.16.,1
+		FJG,Kecskemét,Kiskunfélegyháza
+	JAR,802,12:00,2025.5.16.,2
+		DJG,Kecskemét,Kiskunfélegyháza
+		DJG,Kecskemét,Kiskunfélegyháza
+VON,505,1,2,Pécs,0,Balaton,140
+	JAR,901,15:45,2025.6.10.,3
+		DJG,Pécs,Balaton
+		FJG,Pécs,Balaton
+		FJG,Pécs,Balaton
+VON,606,2,3,Győr,0,Veszprém,90,Székesfehérvár,150
+	JAR,1001,17:30,2025.6.11.,3
+		FJG,Győr,Székesfehérvár
+		DJG,Győr,Veszprém
+		FJG,Győr,Székesfehérvár
+	JAR,1002,19:00,2025.6.11.,2
+		FJG,Veszprém,Székesfehérvár
+		FJG,Győr,Székesfehérvár
+VON,707,1,2,Eger,0,Miskolc,70
+	JAR,1101,13:00,2025.6.12.,3
+		DJG,Eger,Miskolc
+		DJG,Eger,Miskolc
+		FJG,Eger,Miskolc
+VON,808,2,3,Nagykanizsa,0,Zalaegerszeg,50,Keszthely,100
+	JAR,1201,18:30,2025.6.13.,2
+		FJG,Nagykanizsa,Keszthely
+		FJG,Zalaegerszeg,Keszthely
+	JAR,1202,20:15,2025.6.13.,2
+		DJG,Nagykanizsa,Zalaegerszeg
+		FJG,Zalaegerszeg,Keszthely
+VON,909,0,11,Budapest-Keleti,0,Kőbánya-Kispest,8,Monor,35,Cegléd,72,Szolnok,100,Törökszentmilós,112,Mezőtúr,130,Gyomaendrőd,148,Békéscsaba,170,Lőkösháza,190,Arad,210
